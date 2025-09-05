@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Simple-Task-Manager-App/static/css/main.a7f329cc.css",
+    "main.js": "/Simple-Task-Manager-App/static/js/main.f04abce6.js",
+    "index.html": "/Simple-Task-Manager-App/index.html",
+    "main.a7f329cc.css.map": "/Simple-Task-Manager-App/static/css/main.a7f329cc.css.map",
+    "main.f04abce6.js.map": "/Simple-Task-Manager-App/static/js/main.f04abce6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7f329cc.css",
+    "static/js/main.f04abce6.js"
+  ]
+}
